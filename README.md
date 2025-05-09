@@ -9,7 +9,7 @@ I'm a computer science and engineering student currently enrolled at Lunds Tekni
 
 **Languages:** Go, Java, Python, C++, C, TypeScript, SQL, Bash
 
-**Technologies:** React, NodeJS, Deno, Tailwind, Bootstrap, SQLite, PostgreSQL
+**Technologies:** React, NodeJS, Deno, Tailwind, Bootstrap, SQLite, PostgreSQL, Docker
 
-**Learning:** Elixir
+**Learning:** Laravel
 </details>
